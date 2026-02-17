@@ -1,12 +1,12 @@
-# Hi, I'm Balaji Viswanathan 👋
+# Hi, I'm Balaji Viswanathan 
 
-### 🤖 AI/ML Engineer | LLMs & Agentic AI Systems | RAG Pipelines
+###  AI/ML Engineer | LLMs & Agentic AI Systems | RAG Pipelines
 
 I design and build intelligent AI systems — from autonomous agentic workflows to production-ready RAG pipelines. Currently completing my Post Graduate degree in AI & ML at Nipissing University, Ontario.
 
 ---
 
-## 🧠 What I Work On
+##  What I Work On
 
 - **Agentic AI Systems** — Multi-agent workflows with planning, tool use, memory, and self-reflection using LangGraph
 - **RAG Pipelines** — Hybrid retrieval (semantic + keyword + metadata) with FAISS, ChromaDB, Pinecone
@@ -15,7 +15,7 @@ I design and build intelligent AI systems — from autonomous agentic workflows 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI/ML**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,7 +33,7 @@ I design and build intelligent AI systems — from autonomous agentic workflows 
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=BalajiV21&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BalajiV21&theme=highcontrast&hide_border=false)
