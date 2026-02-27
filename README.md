@@ -2,7 +2,7 @@
 
 ###  AI/ML Engineer | LLMs & Agentic AI Systems | RAG Pipelines
 
-I design and build intelligent AI systems — from autonomous agentic workflows to production-ready RAG pipelines. Currently completing my Post Graduate degree in AI & ML at Nipissing University, Ontario.
+I design and build intelligent AI systems - from autonomous agentic workflows to production-ready RAG pipelines. Currently completing my Post Graduate degree in AI & ML at Nipissing University, Ontario.
 
 ---
 
