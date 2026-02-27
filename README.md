@@ -2,7 +2,7 @@
 
 ###  AI/ML Engineer | LLMs & Agentic AI Systems | RAG Pipelines
 
-I design and build intelligent AI systems - from autonomous agentic workflows to production-ready RAG pipelines. Currently completing my Post Graduate degree in AI & ML at Nipissing University, Ontario.
+I design and build intelligent AI systems - from autonomous agentic workflows to production-ready RAG pipelines. Currently completing my Post Graduate degree in AI & ML at Nipissing University, Ontario, Canada.
 
 ---
 
@@ -30,13 +30,3 @@ I design and build intelligent AI systems - from autonomous agentic workflows to
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-
-
-##  GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=BalajiV21&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BalajiV21&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiV21&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
